@@ -1,0 +1,9 @@
+CMake Error at D:/Espressif/frameworks/esp-idf-v5.3.5/tools/cmake/build.cmake:300 (message):
+  Failed to resolve component 'drivers'.
+Call Stack (most recent call first):
+  D:/Espressif/frameworks/esp-idf-v5.3.5/tools/cmake/build.cmake:336 (__build_resolve_and_add_req)
+  D:/Espressif/frameworks/esp-idf-v5.3.5/tools/cmake/build.cmake:648 (__build_expand_requirements)
+  D:/Espressif/frameworks/esp-idf-v5.3.5/tools/cmake/project.cmake:722 (idf_build_process)
+  CMakeLists.txt:8 (project)
+
+
