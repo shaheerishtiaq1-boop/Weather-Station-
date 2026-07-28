@@ -1,0 +1,2 @@
+source D:/WeatherStation_Sample/build/bootloader/gdbinit/symbols
+source D:/WeatherStation_Sample/build/bootloader/gdbinit/connect
